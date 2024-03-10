@@ -42,7 +42,7 @@
 ## HỌ TÊN
 | MSSV          | Họ và Tên              | Github                                               | Email                   |
 |:-------------:| ----------------------:|-----------------------------------------------------:|-------------------------:
-| 21522243      | Đỗ Phúc Kiên           |[dpkien2809](https://github.com/dpkien2809)           |19520227@gm.uit.edu.vn   |
+| 21522243      | Đỗ Phúc Kiên           |[dpkien2809](https://github.com/dpkien2809)           |21522243@gm.uit.edu.vn   |
 
 
 ## ĐỒ ÁN MÔN HỌC
